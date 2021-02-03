@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QuizH</string>
+    <string name="q1" />
+    <string name="todo" />
+    <string name="都道府県名は" />
+    <string name="名前">都道府県名は？</string>
+</resources>
